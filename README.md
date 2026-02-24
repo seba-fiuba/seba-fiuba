@@ -11,7 +11,7 @@ Hola, soy Sebastián<br><br>🎓 Estudiante de Ingeniería Informática en la FI
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seba-fiuba&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true" alt="Stats de Seba" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seba-fiuba&theme=nightowl&layout=compact" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seba-fiuba&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=normal&langs_count=5" alt="Lenguajes más usados" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seba-fiuba&theme=nightowl" alt="Streak Stats" />
 
